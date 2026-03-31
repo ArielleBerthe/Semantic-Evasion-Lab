@@ -1,0 +1,26 @@
+# Semantic Evasion Lab - Dependencies
+# Python 3.10+
+
+# API Clients
+anthropic>=0.18.0
+openai>=1.12.0
+
+# Data handling
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Async support
+aiohttp>=3.9.0
+asyncio-throttle>=1.0.0
+
+# Utilities
+python-dotenv>=1.0.0
+tqdm>=4.65.0
+pyyaml>=6.0.0
+
+# Analysis
+scipy>=1.11.0
